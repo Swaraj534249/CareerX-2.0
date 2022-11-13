@@ -1,0 +1,12 @@
+.add_btn{
+  text-align: right;
+}
+
+.left_view p,
+.right_view p{
+ font-weight: 600;
+}
+
+.pagination li a{
+text-decoration: none;
+}
