@@ -17,3 +17,7 @@ this will run ru your server
 `cd ./bank/`
 `npm install`
 `npm start`
+
+
+https://user-images.githubusercontent.com/82468713/201636390-d9892dbb-3a01-4a25-b81d-1f0353e4a600.mp4
+
